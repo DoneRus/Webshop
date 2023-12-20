@@ -175,3 +175,37 @@ justify-content: center;
 height: 150px;
 width: 200px;
 }
+
+/* Inloggevens */
+.one {
+    background-color: rgb(219, 32, 32);
+    color: aliceblue;
+    text-align: center;
+  }
+  
+  body {
+    font-size: 150%;
+  }
+  
+  .two {
+    font-size: larger;
+  }
+  
+  form {
+    font-size: larger;
+  }
+  .three{
+  
+      font-size: 80%;
+  }
+  button {
+    font-size: 80%;
+  }
+  .aanmelden{
+  
+      color: black;
+  }
+  
+  .wachtwoord{
+      color: black;
+  }
